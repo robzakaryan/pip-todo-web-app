@@ -1,0 +1,5 @@
+go
+sleep
+eat
+learn
+clean
